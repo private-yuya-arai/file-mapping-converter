@@ -1,0 +1,2 @@
+# git に改行コード・文字コードを変換させない（.vbs / .bat は Shift-JIS・CRLF のまま保存する）
+* -text
